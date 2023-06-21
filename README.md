@@ -9,4 +9,5 @@ Simple telegram bot made with python-telegram-bot and yfinance libraries. It can
 - /marketcap - sends the market cap of the stocks wrote in the code with yfinance library;
 - /stocks - sends the price of the stocks wrote in the code with yfinance library.
 
-To run the bot, you must put your token generated from BotFather through Telegram in the .env file and it works!     
+To run the bot, you must put your token generated from BotFather through Telegram in the .env file and it works! Plus install the requirements.txt file with the command pip install -r requirements.txt
+   

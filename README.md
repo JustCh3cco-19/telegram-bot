@@ -1,6 +1,6 @@
-# simple-telegram-bot
+# A Python Telegram bot
 
-Simple telegram bot made with python-telegram-bot and yfinance libraries. It can retrieves data from Yahoo Finance from multiple stocks selected (input of any stock and downloading data is under development). It's based on some commands (in Italian): 
+Telegram bot made with python-telegram-bot and yfinance libraries. It can retrieves data from Yahoo Finance from multiple stocks selected (input of any stock and downloading data is under development). It's based on some commands (in Italian): 
 - /start - welcome message;
 - /addizione - sum of two numbers and print the result;
 - /dice - throws a dice and make a challenge with the bot;

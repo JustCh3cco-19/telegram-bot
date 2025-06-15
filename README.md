@@ -1,4 +1,4 @@
-# Telegram Finance & Fun Bot 🇮🇹
+# Telegram Finance & Fun Bot
 
 > **A multi-purpose Telegram bot that delivers finance data and fun commands, built with `python-telegram-bot` and `yfinance`.**
 
